@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to find job at Data Science Field.
-- 📫 You can reach me ..linkedin.com/in/meisam-a-7304bb225
+- 📫 You can reach me ..linkedin.com/in/meisam-abolhassani/
 
 <!---
 meisam210905/meisam210905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
